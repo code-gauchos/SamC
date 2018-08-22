@@ -7,7 +7,6 @@ yourAge=int(input("What is your age?"))
 
 print("Hello",yourName)
 
-
 time.sleep(3)  
 
 if yourAge>30:
