@@ -29,6 +29,7 @@ print("And I am ",myAge, "years old.")
 #then calculate tax(@8%)
 #print tax and grand total
 
+print("Let's Build a PC that fits your budget. What setup type would you like? We offer the Budget Gamer, ")
 bossPrice=float(input("What is the price of an 8gb stick of ram?"))
 
 customerorder=float(input("How many 8gb sticks would you like?"))
