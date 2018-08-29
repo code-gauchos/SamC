@@ -1,0 +1,18 @@
+[
+    {
+        "systemName": "Budget Gamer",
+        "systemPrice": "580"
+    },
+    {
+        "systemName": "Mid Ranger",
+        "systemPrice": "800"
+    },
+    {
+        "systemName": "Power Budget",
+        "systemPrice": "1500"
+    },
+    {
+        "systemName": "All Out Power",
+        "systemPrice": "3000"
+    }
+]
