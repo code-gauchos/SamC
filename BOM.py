@@ -9,6 +9,7 @@ print("Let's Build a PC that fits your budget. What setup type would you like? W
 for machineCounter in range(len(machines)):
     machines[machineCounter]["systemName"]
     print(machines[machineCounter]["systemName"])
+    machineCounter+=1
 
 
 
