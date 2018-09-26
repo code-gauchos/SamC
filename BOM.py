@@ -17,21 +17,9 @@ for machineCounter in range(len(machine)):
     
     products.append(product)
 
+
     print(product.systemName)
     print(product.systemPrice)
 
     machineCounter+=1
-
-
-
-
-#print("Ok, so you would like the", machines, "priced at $",price)
-
-
-#tax=(price*(0.08))
-
-#grandTotal=totalPrice+tax
-
-#print("Your tax comes to $",round(tax,2))
-
-#print("Your total comes to $",round(grandTotal,2),"Thank you for your purchase.")
+    
